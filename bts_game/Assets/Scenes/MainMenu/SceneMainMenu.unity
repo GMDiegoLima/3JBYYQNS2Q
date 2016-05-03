@@ -160,18 +160,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 110738241}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 110738243}
-        m_MethodName: ChangeToScene
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &110738241
@@ -215,9 +204,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 110738238}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27ae746ac077b5a4ba1fd2680dfa7d5d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9bbb7e937832464ab40c18726fda6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneID: 2
 --- !u!1 &154966780
 GameObject:
   m_ObjectHideFlags: 0
@@ -293,18 +283,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 154966783}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 154966785}
-        m_MethodName: ChangeToScene
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 2
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &154966783
@@ -348,9 +327,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 154966780}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27ae746ac077b5a4ba1fd2680dfa7d5d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9bbb7e937832464ab40c18726fda6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneID: 1
 --- !u!1 &761013634
 GameObject:
   m_ObjectHideFlags: 0
@@ -426,18 +406,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 761013637}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 761013639}
-        m_MethodName: ChangeToScene
-        m_Mode: 3
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &761013637
@@ -481,9 +450,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 761013634}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 27ae746ac077b5a4ba1fd2680dfa7d5d, type: 3}
+  m_Script: {fileID: 11500000, guid: d9bbb7e937832464ab40c18726fda6ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneID: 3
 --- !u!1 &828079199
 GameObject:
   m_ObjectHideFlags: 0
@@ -1331,18 +1301,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2011040762}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 2011040764}
-        m_MethodName: ApplicationQuit
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &2011040762
@@ -1386,6 +1345,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2011040759}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ba05e7084ab0f4e4a923d43f383f65bb, type: 3}
+  m_Script: {fileID: 11500000, guid: 94fd3e58a06102d4cb28f6e33cdcde21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  force: 1
