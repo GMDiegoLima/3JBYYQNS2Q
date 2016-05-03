@@ -29,6 +29,7 @@ public class PlayerInput : MonoBehaviour {
 		if (jump) {
 			PlayerMovimentation.main.TryJump ();
 			jump = false;
+            
 		}
 	}
 }

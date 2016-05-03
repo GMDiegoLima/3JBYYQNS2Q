@@ -44,19 +44,23 @@ public class UIControl : MonoBehaviour {
 
 	void Start () {
 		customizeMenu.SetActive (customize);
+        /*
 		player.hair.mesh = magos[(int)magoSlider.value].hairs [hairValueBKP].hair;
 		player.skin.mesh = magos[(int)magoSlider.value].skins [skinValueBKP].skin;
 		player.hairRenderer.material = magos[(int)magoSlider.value].hairs [hairValueBKP].material;
 		player.skinRenderer.material = magos[(int)magoSlider.value].skins [skinValueBKP].material;
+        */
 	}
 
 	void Update () {
 		customizeMenu.SetActive (customize);
 		if (customize) {
+            /*
 			player.hair.mesh = magos[(int)magoSlider.value].hairs [(int)hairSlider.value].hair;
 			player.skin.mesh = magos[(int)magoSlider.value].skins [(int)skinSlider.value].skin;
 			player.hairRenderer.material = magos[(int)magoSlider.value].hairs [(int)hairSlider.value].material;
 			player.skinRenderer.material = magos[(int)magoSlider.value].skins [(int)skinSlider.value].material;
+            */
 		}
 		if (hairSlider.value != hairValueBKP || skinSlider.value != skinValueBKP) {
 			change = true;
@@ -68,18 +72,22 @@ public class UIControl : MonoBehaviour {
 	public void Apply () { // aplicar personalização / aplica nova personalização
 		hairValueBKP = (int)hairSlider.value;
 		skinValueBKP = (int)skinSlider.value;
+        /*
 		player.hair.mesh = magos[(int)magoSlider.value].hairs [(int)hairSlider.value].hair;
 		player.skin.mesh = magos[(int)magoSlider.value].skins [(int)skinSlider.value].skin;
 		player.hairRenderer.material = magos[(int)magoSlider.value].hairs [(int)hairSlider.value].material;
 		player.skinRenderer.material = magos[(int)magoSlider.value].skins [(int)skinSlider.value].material;
+        */
 		SetOff ();
 	}
 
 	public void Cancel () { // cancela personalização / cancela nova personalização
+        /*
 		player.hair.mesh = magos[(int)magoSlider.value].hairs [(int)hairValueBKP].hair;
 		player.skin.mesh = magos[(int)magoSlider.value].skins [(int)skinValueBKP].skin;
 		player.hairRenderer.material = magos[(int)magoSlider.value].hairs [(int)hairValueBKP].material;
 		player.skinRenderer.material = magos[(int)magoSlider.value].skins [(int)skinValueBKP].material;
+        */
 		change = false;
 		SetOff ();
 	}
