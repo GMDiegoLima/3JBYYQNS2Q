@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 0efc3753387e2dd41a02ab2f6d415efd
+timeCreated: 1462138393
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Coracao
+    21300002: Config
+    21300004: Ataque
+    21300006: Inventario
+    21300008: livro
+    21300010: SetaEsquerda
+    21300012: SetaDireita
+    21300014: potion
+    21300016: pular
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Coracao
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1926
+        width: 1928
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 241.73804, y: -50.057007}
+        - {x: 350.73804, y: 20.942993}
+        - {x: 368.73804, y: 33.942993}
+        - {x: 508.73804, y: 31.942993}
+        - {x: 537.73804, y: 72.94299}
+        - {x: 563.73804, y: 81.94299}
+        - {x: 563.73804, y: 98.94299}
+        - {x: 560.73804, y: 111.94299}
+        - {x: 553.73804, y: 117.94299}
+        - {x: 327.73804, y: 119.94299}
+        - {x: 219.73804, y: 61.942993}
+        - {x: 197.73804, y: 48.942993}
+        - {x: 154.73804, y: 47.942993}
+        - {x: 156.73804, y: 60.942993}
+        - {x: 141.73804, y: 99.94299}
+        - {x: 118.73804, y: 120.94299}
+        - {x: 101.73804, y: 126.94299}
+        - {x: 70.73804, y: 132.943}
+        - {x: 49.738037, y: 132.943}
+        - {x: 17.738037, y: 117.94299}
+        - {x: 7.738037, y: 107.94299}
+        - {x: -26.261963, y: 127.94299}
+        - {x: -42.261963, y: 132.943}
+        - {x: -83.26196, y: 132.943}
+        - {x: -96.26196, y: 128.943}
+        - {x: -116.26196, y: 116.94299}
+        - {x: -128.26196, y: 103.94299}
+        - {x: -139.26196, y: 82.94299}
+        - {x: -156.26196, y: 45.942993}
+        - {x: -178.26196, y: 46.942993}
+        - {x: -207.26196, y: 50.942993}
+        - {x: -308.26196, y: 107.94299}
+        - {x: -328.26196, y: 116.94299}
+        - {x: -478.26196, y: 112.94299}
+        - {x: -551.26196, y: 111.94299}
+        - {x: -563.26196, y: 91.94299}
+        - {x: -563.26196, y: 76.94299}
+        - {x: -546.26196, y: 72.94299}
+        - {x: -521.26196, y: 26.942993}
+        - {x: -367.26196, y: 29.942993}
+        - {x: -354.26196, y: 20.942993}
+        - {x: -233.26196, y: -54.057007}
+        - {x: -121.26196, y: -53.057007}
+        - {x: -97.26196, y: -51.057007}
+        - {x: -77.26196, y: -76.05701}
+        - {x: -60.261963, y: -93.05701}
+        - {x: -51.261963, y: -100.05701}
+        - {x: -39.261963, y: -109.05701}
+        - {x: -20.261963, y: -121.05701}
+        - {x: -2.261963, y: -132.057}
+        - {x: 18.738037, y: -132.057}
+        - {x: 82.73804, y: -83.05701}
+        - {x: 106.73804, y: -55.057007}
+        - {x: 107.73804, y: -50.057007}
+    - name: Config
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 2098
+        width: 325
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.33362, y: 97.44995}
+        - {x: -31.666382, y: 97.44995}
+        - {x: -80.66638, y: 73.44995}
+        - {x: -94.66638, y: 27.449951}
+        - {x: -94.66638, y: -36.55005}
+        - {x: -61.66638, y: -79.55005}
+        - {x: -36.66638, y: -95.55005}
+        - {x: 48.33362, y: -95.55005}
+        - {x: 79.33362, y: -88.55005}
+        - {x: 96.33362, y: -50.55005}
+        - {x: 96.33362, y: 41.44995}
+        - {x: 92.33362, y: 70.44995}
+    - name: Ataque
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1732
+        width: 259
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.8067, y: 67.58069}
+        - {x: -75.8067, y: -65.41931}
+        - {x: -70.8067, y: -67.41931}
+        - {x: 77.1933, y: -67.41931}
+        - {x: 77.1933, y: 65.58069}
+        - {x: 74.1933, y: 67.58069}
+    - name: Inventario
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1482
+        width: 253
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.71631, y: 67.49512}
+        - {x: -73.71631, y: 63.495117}
+        - {x: -73.71631, y: -60.504883}
+        - {x: -65.71631, y: -65.50488}
+        - {x: 75.28369, y: -65.50488}
+        - {x: 75.28369, y: 66.49512}
+        - {x: 72.28369, y: 67.49512}
+    - name: livro
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1297
+        width: 383
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.124023, y: 98.391785}
+        - {x: -90.12402, y: 98.391785}
+        - {x: -90.12402, y: 94.391785}
+        - {x: -105.12402, y: 78.391785}
+        - {x: -112.12402, y: 43.391785}
+        - {x: -112.12402, y: -21.608215}
+        - {x: 23.875977, y: -96.608215}
+        - {x: 38.875977, y: -96.608215}
+        - {x: 112.87598, y: -46.608215}
+        - {x: 112.87598, y: 19.391785}
+        - {x: 88.87598, y: 54.391785}
+    - name: SetaEsquerda
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 427
+        width: 454
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.24738, y: 29.014114}
+        - {x: 123.247375, y: 37.014114}
+        - {x: -0.7526245, y: 82.014114}
+        - {x: -18.752625, y: 82.014114}
+        - {x: -127.752625, y: 12.014114}
+        - {x: -132.75262, y: 7.0141144}
+        - {x: -132.75262, y: -0.9858856}
+        - {x: -128.75262, y: -5.9858856}
+        - {x: -12.7526245, y: -80.985886}
+        - {x: -2.7526245, y: -80.985886}
+        - {x: 1.2473755, y: -71.985886}
+        - {x: 126.247375, y: -24.985886}
+        - {x: 132.24738, y: -19.985886}
+    - name: SetaDireita
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 441
+        width: 445
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -130.03915, y: -25.305084}
+        - {x: -123.039154, y: -32.305084}
+        - {x: -23.039154, y: -78.305084}
+        - {x: 16.960846, y: -78.305084}
+        - {x: 130.96085, y: -17.305084}
+        - {x: 130.96085, y: 7.694916}
+        - {x: 125.960846, y: 13.694916}
+        - {x: 36.960846, y: 79.694916}
+        - {x: -36.039154, y: 79.694916}
+        - {x: -130.03915, y: 31.694916}
+    - name: potion
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 388
+        width: 253
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.759827, y: 103.22476}
+        - {x: -74.24017, y: 40.224762}
+        - {x: -74.24017, y: -96.77524}
+        - {x: -65.24017, y: -101.77524}
+        - {x: 38.759827, y: -101.77524}
+        - {x: 74.75983, y: -67.77524}
+        - {x: 74.75983, y: 103.22476}
+    - name: pular
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 418
+        width: 295
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.809082, y: 86.755035}
+        - {x: -44.190918, y: 86.755035}
+        - {x: -86.19092, y: 52.755035}
+        - {x: -86.19092, y: -34.244965}
+        - {x: -82.19092, y: -54.244965}
+        - {x: -56.190918, y: -85.244965}
+        - {x: -47.190918, y: -86.244965}
+        - {x: 52.809082, y: -86.244965}
+        - {x: 82.80908, y: -62.244965}
+        - {x: 86.80908, y: -43.244965}
+        - {x: 86.80908, y: 52.755035}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

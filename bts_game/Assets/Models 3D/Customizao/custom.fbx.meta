@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: f83130d651605794fa37a875e23b93fd
+timeCreated: 1461878250
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cabec
+    100002: Cabel
+    100004: Cabel1
+    100006: Cabel2
+    100008: Cabelo1
+    100010: Cabelo2
+    100012: Cabelo3
+    100014: Cajado
+    100016: Camera
+    100018: Capa
+    100020: Cilindro
+    100022: Corpo
+    100024: Corpo1
+    100026: //RootNode
+    400000: Cabec
+    400002: Cabel
+    400004: Cabel1
+    400006: Cabel2
+    400008: Cabelo1
+    400010: Cabelo2
+    400012: Cabelo3
+    400014: Cajado
+    400016: Camera
+    400018: Capa
+    400020: Cilindro
+    400022: Corpo
+    400024: Corpo1
+    400026: //RootNode
+    2300000: Cabec
+    2300002: Cabel
+    2300004: Cabel1
+    2300006: Cabel2
+    2300008: Cabelo1
+    2300010: Cabelo2
+    2300012: Cabelo3
+    2300014: Cajado
+    2300016: Capa
+    2300018: Cilindro
+    2300020: Corpo
+    2300022: Corpo1
+    3300000: Cabec
+    3300002: Cabel
+    3300004: Cabel1
+    3300006: Cabel2
+    3300008: Cabelo1
+    3300010: Cabelo2
+    3300012: Cabelo3
+    3300014: Cajado
+    3300016: Capa
+    3300018: Cilindro
+    3300020: Corpo
+    3300022: Corpo1
+    4300000: Corpo
+    4300002: Cabec
+    4300004: Cabel1
+    4300006: Cabelo1
+    4300008: Cajado
+    4300010: Cabel
+    4300012: Cabelo2
+    4300014: Cabelo3
+    4300016: Cabel2
+    4300018: Capa
+    4300020: Corpo1
+    4300022: Cilindro
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

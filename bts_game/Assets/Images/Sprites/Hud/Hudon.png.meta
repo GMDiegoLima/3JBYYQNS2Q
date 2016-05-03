@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: f2ee74bd9c3a85546bb34bc74e996aa2
+timeCreated: 1462138610
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: configOn
+    21300002: livroOn
+    21300004: SetaEsquerdaOn
+    21300006: SetaDireitaOn
+    21300008: potionOn
+    21300010: pularOn
+    21300012: InventarioOn
+    21300014: AtacarOn
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: configOn
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 2046
+        width: 438
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.44177, y: -43.935913}
+        - {x: 129.44177, y: 45.064087}
+        - {x: 126.44177, y: 49.064087}
+        - {x: 122.44177, y: 54.064087}
+        - {x: 112.44177, y: 86.06409}
+        - {x: 59.441772, y: 127.06409}
+        - {x: -50.558228, y: 127.06409}
+        - {x: -92.55823, y: 101.06409}
+        - {x: -125.55823, y: 47.064087}
+        - {x: -125.55823, y: -40.935913}
+        - {x: -119.55823, y: -58.935913}
+        - {x: -109.55823, y: -67.93591}
+        - {x: -82.55823, y: -107.93591}
+        - {x: -66.55823, y: -114.93591}
+        - {x: -37.558228, y: -125.93591}
+        - {x: 57.441772, y: -125.93591}
+        - {x: 103.44177, y: -95.93591}
+        - {x: 114.44177, y: -70.93591}
+    - name: livroOn
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 1225
+        width: 499
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147.219, y: 12.319153}
+        - {x: 142.219, y: 27.319153}
+        - {x: 123.218994, y: 37.319153}
+        - {x: 102.218994, y: 62.319153}
+        - {x: 83.218994, y: 79.31915}
+        - {x: 20.218994, y: 110.31915}
+        - {x: -38.781006, y: 125.31915}
+        - {x: -67.781006, y: 130.31915}
+        - {x: -106.781006, y: 130.31915}
+        - {x: -132.781, y: 109.31915}
+        - {x: -137.781, y: 94.31915}
+        - {x: -138.781, y: 82.31915}
+        - {x: -145.781, y: 26.319153}
+        - {x: -145.781, y: -34.680847}
+        - {x: -71.781006, y: -78.68085}
+        - {x: 14.218994, y: -129.68085}
+        - {x: 58.218994, y: -129.68085}
+        - {x: 137.219, y: -63.680847}
+        - {x: 144.219, y: -45.680847}
+        - {x: 147.219, y: -21.680847}
+    - name: SetaEsquerdaOn
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 362
+        width: 574
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.27118, y: 53.531876}
+        - {x: 134.27118, y: 66.531876}
+        - {x: 42.27118, y: 60.531876}
+        - {x: 21.27118, y: 59.531876}
+        - {x: 24.27118, y: 97.531876}
+        - {x: 11.271179, y: 111.531876}
+        - {x: -37.72882, y: 111.531876}
+        - {x: -161.72882, y: 28.531876}
+        - {x: -167.72882, y: 21.531876}
+        - {x: -167.72882, y: -10.468124}
+        - {x: -166.72882, y: -17.468124}
+        - {x: -152.72882, y: -30.468124}
+        - {x: -33.72882, y: -110.468124}
+        - {x: 25.27118, y: -110.468124}
+        - {x: 134.27118, y: -52.468124}
+        - {x: 156.27118, y: -50.468124}
+        - {x: 168.27118, y: -39.468124}
+    - name: SetaDireitaOn
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 376
+        width: 568
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.454773, y: 109.71266}
+        - {x: -15.545227, y: 109.71266}
+        - {x: -29.545227, y: 88.71266}
+        - {x: -24.545227, y: 57.71266}
+        - {x: -155.54523, y: 55.71266}
+        - {x: -165.54523, y: 42.71266}
+        - {x: -165.54523, y: -37.28734}
+        - {x: -159.54523, y: -53.28734}
+        - {x: -127.54523, y: -59.28734}
+        - {x: -25.545227, y: -57.28734}
+        - {x: -33.545227, y: -74.28734}
+        - {x: -18.545227, y: -108.28734}
+        - {x: 36.454773, y: -108.28734}
+        - {x: 167.45477, y: -24.287338}
+        - {x: 167.45477, y: 19.712662}
+        - {x: 131.45477, y: 46.71266}
+    - name: potionOn
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 224
+        width: 363
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.30304, y: 59.392654}
+        - {x: 107.30304, y: 103.392654}
+        - {x: 92.30304, y: 125.392654}
+        - {x: 65.30304, y: 136.39265}
+        - {x: 28.30304, y: 136.39265}
+        - {x: 19.30304, y: 134.39265}
+        - {x: -30.69696, y: 75.392654}
+        - {x: -67.69696, y: 56.392654}
+        - {x: -75.69696, y: 45.392654}
+        - {x: -104.69696, y: 4.3926544}
+        - {x: -104.69696, y: -74.607346}
+        - {x: -91.69696, y: -98.607346}
+        - {x: -26.69696, y: -134.60735}
+        - {x: 29.30304, y: -134.60735}
+        - {x: 81.30304, y: -98.607346}
+        - {x: 93.30304, y: -63.607346}
+        - {x: 101.30304, y: 28.392654}
+    - name: pularOn
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 349
+        width: 404
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118.78003, y: 36.935425}
+        - {x: 114.78003, y: 55.935425}
+        - {x: 74.78003, y: 100.935425}
+        - {x: 41.78003, y: 113.935425}
+        - {x: 23.78003, y: 118.935425}
+        - {x: -40.21997, y: 118.935425}
+        - {x: -52.21997, y: 117.935425}
+        - {x: -89.21997, y: 88.935425}
+        - {x: -107.21997, y: 67.935425}
+        - {x: -118.21997, y: 32.935425}
+        - {x: -118.21997, y: -37.064575}
+        - {x: -100.21997, y: -79.064575}
+        - {x: -58.21997, y: -109.064575}
+        - {x: -27.21997, y: -118.064575}
+        - {x: 49.78003, y: -118.064575}
+        - {x: 93.78003, y: -87.064575}
+        - {x: 113.78003, y: -58.064575}
+        - {x: 118.78003, y: -25.064575}
+    - name: InventarioOn
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1450
+        width: 307
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.69775, y: 82.79614}
+        - {x: -89.69775, y: -82.20386}
+        - {x: 91.30225, y: -82.20386}
+        - {x: 91.30225, y: 82.79614}
+    - name: AtacarOn
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1733
+        width: 307
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.69775, y: 81.66498}
+        - {x: -89.69775, y: -80.33502}
+        - {x: 91.30225, y: -80.33502}
+        - {x: 91.30225, y: 81.66498}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
