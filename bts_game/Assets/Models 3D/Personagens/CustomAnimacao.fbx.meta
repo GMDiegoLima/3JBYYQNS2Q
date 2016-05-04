@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 7ea3f98a57b11154091c0c1b0449b08e
+timeCreated: 1462320402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baixo
+    100002: Cabeca
+    100004: Cabeca_2
+    100006: Cabelo1
+    100008: Cabelo2
+    100010: Cabelo3
+    100012: Capa
+    100014: Cilindro
+    100016: Corpo
+    100018: CotvD
+    100020: CotvE
+    100022: //RootNode
+    100024: JoelhoD
+    100026: JoelhoE
+    100028: Lensflare_Source
+    100030: MaoD
+    100032: MaoE
+    100034: Meio
+    100036: Moon
+    100038: Moon_Light
+    100040: nada
+    100042: nada_2
+    100044: Null
+    100046: Null_2
+    100048: OmbroD
+    100050: OmbroE
+    100052: Ossos
+    100054: Ossos_2
+    100056: PeD
+    100058: PeE
+    100060: Peitoral
+    100062: Pescoco
+    100064: Physical_Sky
+    100066: ree
+    100068: Shadow_Plane
+    100070: Sky_Dome
+    100072: Sky_Null
+    100074: Sun
+    100076: Sun_light
+    100078: Tronco
+    400000: Baixo
+    400002: Cabeca
+    400004: Cabeca_2
+    400006: Cabelo1
+    400008: Cabelo2
+    400010: Cabelo3
+    400012: Capa
+    400014: Cilindro
+    400016: Corpo
+    400018: CotvD
+    400020: CotvE
+    400022: //RootNode
+    400024: JoelhoD
+    400026: JoelhoE
+    400028: Lensflare_Source
+    400030: MaoD
+    400032: MaoE
+    400034: Meio
+    400036: Moon
+    400038: Moon_Light
+    400040: nada
+    400042: nada_2
+    400044: Null
+    400046: Null_2
+    400048: OmbroD
+    400050: OmbroE
+    400052: Ossos
+    400054: Ossos_2
+    400056: PeD
+    400058: PeE
+    400060: Peitoral
+    400062: Pescoco
+    400064: Physical_Sky
+    400066: ree
+    400068: Shadow_Plane
+    400070: Sky_Dome
+    400072: Sky_Null
+    400074: Sun
+    400076: Sun_light
+    400078: Tronco
+    2300000: Cabelo1
+    2300002: Cabelo2
+    2300004: Cabelo3
+    2300006: Cilindro
+    2300008: ree
+    3300000: Cabelo1
+    3300002: Cabelo2
+    3300004: Cabelo3
+    3300006: Cilindro
+    3300008: ree
+    4300000: Cilindro
+    4300002: Corpo
+    4300004: Capa
+    4300006: Cabelo3
+    4300008: Cabelo2
+    4300010: Cabelo1
+    4300012: ree
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    13700000: Capa
+    13700002: Corpo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
