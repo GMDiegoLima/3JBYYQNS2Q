@@ -1792,6 +1792,82 @@ Prefab:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1721745670}
+    - target: {fileID: 11445650, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11479874, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11479874, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300004, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
+    - target: {fileID: 11436680, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11436680, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300006, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
+    - target: {fileID: 11465874, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11465874, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300008, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
+    - target: {fileID: 11410332, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11410332, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300010, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
+    - target: {fileID: 11440434, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11440434, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300002, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
+    - target: {fileID: 11483010, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11483010, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
+    - target: {fileID: 11479716, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11479716, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300012, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
+    - target: {fileID: 11408878, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 11408878, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300014, guid: f2ee74bd9c3a85546bb34bc74e996aa2,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f4e6bd610f046ce4ba5d33f115dba538, type: 2}
   m_IsPrefabParent: 0

@@ -48,14 +48,14 @@ public class HudController : MonoBehaviour {
 	
         if (Player.hud == false)
         {
-            setaDireita.sprite = setaDireitaOff;
-           setaEsquerda.sprite = setaEsquerdaOff;
-            pocao.sprite = pocaoOff;
-            pular.sprite = pularOff;
-            livro.sprite = livroOff;
-            configuracao.sprite = configuracaoOff;
-            invetario.sprite = inventarioOff;
-            ataque.sprite = ataqueOff;
+      //      setaDireita.sprite = setaDireitaOff;
+     //      setaEsquerda.sprite = setaEsquerdaOff;
+      //      pocao.sprite = pocaoOff;
+     //       pular.sprite = pularOff;
+      //      livro.sprite = livroOff;
+      //      configuracao.sprite = configuracaoOff;
+     //       invetario.sprite = inventarioOff;
+     //       ataque.sprite = ataqueOff;
             life.color = Color.white;
 
 
@@ -64,14 +64,14 @@ public class HudController : MonoBehaviour {
 
         else
         {
-            setaDireita.sprite = setaDireitaOn;
-            setaEsquerda.sprite = setaEsquerdaOn;
-            pocao.sprite = pocaoOn;
-            pular.sprite = pularOn;
-            livro.sprite = livroOn;
-            configuracao.sprite = configuracaoOn;
-            invetario.sprite = invetarioOn;
-            ataque.sprite = ataqueOn;
+    //        setaDireita.sprite = setaDireitaOn;
+     //       setaEsquerda.sprite = setaEsquerdaOn;
+      //      pocao.sprite = pocaoOn;
+     //       pular.sprite = pularOn;
+       //     livro.sprite = livroOn;
+    //        configuracao.sprite = configuracaoOn;
+      //      invetario.sprite = invetarioOn;
+      //      ataque.sprite = ataqueOn;
             life.color = Color.clear;
 
 
