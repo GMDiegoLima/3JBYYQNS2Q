@@ -81,7 +81,7 @@ public class Player : MonoBehaviour
                       transform.eulerAngles = new Vector2(0, 180);
              
          
-                Debug.Log("Horizontal < 0");
+            //    Debug.Log("Horizontal < 0");
             }
             // Se for maior que Zero ele tá pra direita
             if (horizontal > 0)
@@ -90,7 +90,7 @@ public class Player : MonoBehaviour
                  transform.Translate(movement * velocidade * Time.deltaTime);
                 transform.eulerAngles = new Vector2(0, 0);
 
-                Debug.Log("Horizontal > 0");
+              //  Debug.Log("Horizontal > 0");
 
 
             }
