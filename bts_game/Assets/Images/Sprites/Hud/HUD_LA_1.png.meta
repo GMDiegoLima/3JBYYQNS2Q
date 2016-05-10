@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: acafac7f1a31b0e46aa3b68bd7fe1f03
+timeCreated: 1462854715
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: InventarioOFF
+    21300002: ConfigOff
+    21300004: LivroOFF
+    21300006: EsquerdaOFF
+    21300008: DireitaOFF
+    21300010: PocaoOFf
+    21300012: PuloOFF
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: InventarioOFF
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 507
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: 54}
+        - {x: -55, y: -54}
+        - {x: 55, y: -54}
+        - {x: 55, y: 54}
+    - name: ConfigOff
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 503
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 56}
+        - {x: -53, y: 55}
+        - {x: -56, y: 37}
+        - {x: -56, y: -33}
+        - {x: -29, y: -56}
+        - {x: 53, y: -56}
+        - {x: 56, y: -47}
+        - {x: 56, y: 54}
+        - {x: 53, y: 56}
+    - name: LivroOFF
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 360
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 59.5}
+        - {x: -59.5, y: 49.5}
+        - {x: -59.5, y: -27.5}
+        - {x: -40.5, y: -59.5}
+        - {x: 36.5, y: -59.5}
+        - {x: 59.5, y: -37.5}
+        - {x: 59.5, y: 45.5}
+        - {x: 29.5, y: 59.5}
+    - name: EsquerdaOFF
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 58
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 54}
+        - {x: -76, y: 13}
+        - {x: -76, y: -8}
+        - {x: -73, y: -12}
+        - {x: -28, y: -54}
+        - {x: 22, y: -54}
+        - {x: 76, y: -29}
+        - {x: 76, y: 29}
+        - {x: 17, y: 54}
+    - name: DireitaOFF
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 58
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76, y: -29}
+        - {x: -17, y: -54}
+        - {x: 12, y: -54}
+        - {x: 76, y: -12}
+        - {x: 76, y: 8}
+        - {x: 73, y: 12}
+        - {x: 28, y: 54}
+        - {x: -22, y: 54}
+        - {x: -76, y: 29}
+    - name: PocaoOFf
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 49
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 60}
+        - {x: -38.5, y: 42}
+        - {x: -53.5, y: 30}
+        - {x: -53.5, y: -40}
+        - {x: -47.5, y: -60}
+        - {x: 25.5, y: -60}
+        - {x: 39.5, y: -57}
+        - {x: 53.5, y: -32}
+        - {x: 53.5, y: 47}
+        - {x: 44.5, y: 60}
+    - name: PuloOFF
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 42
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.5, y: 68.5}
+        - {x: 23.5, y: 69.5}
+        - {x: -41.5, y: 69.5}
+        - {x: -69.5, y: 44.5}
+        - {x: -69.5, y: -53.5}
+        - {x: -42.5, y: -69.5}
+        - {x: 56.5, y: -69.5}
+        - {x: 69.5, y: -54.5}
+        - {x: 69.5, y: 46.5}
+        - {x: 44.5, y: 60.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

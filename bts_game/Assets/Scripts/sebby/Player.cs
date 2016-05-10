@@ -10,7 +10,8 @@ public class Player : MonoBehaviour
     private bool estaNoChao;
     public Transform chaoVerificador;
     public LayerMask piso;
-
+    public bool puloDuplo;
+    private Transform posicaoAtual;
 
     // resoinsavel pra saber o valor da horizontal
     static public float h = 0;
@@ -22,7 +23,7 @@ public class Player : MonoBehaviour
     //Tudo que ocorre quando o personagem e criado
     void Start()
     {
-      
+        puloDuplo = false;
 
     }
 
@@ -46,7 +47,10 @@ public class Player : MonoBehaviour
         // E retorna o valor verdadeiro ou falso, se verdadeiro ele tá no chão e passa o Bool pro animator que ele tá no chão pra mostrar a animação Idle
 
         estaNoChao = Physics.CheckSphere(chaoVerificador.position, 0.2f, piso);
-
+        if (estaNoChao)
+        {
+            puloDuplo = true;
+        }
         if (!estaNoChao)
         {
             hud = true;
@@ -103,12 +107,25 @@ public class Player : MonoBehaviour
     {
         if (estaNoChao)
         {
-            GetComponent<Rigidbody>().AddForce(transform.up * forcaPulo);
+            puloDuplo = true;
+            GetComponent<Rigidbody>().AddForce(transform.up * forcaPulo, ForceMode.Impulse);
+          //  posicaoAtual.position = transform.position;
             hud = true;
-            
+          
+
+        }
+     
 
 
+    }
 
+    public void PuloDuplo()
+    {
+        if (puloDuplo && !estaNoChao)
+        {
+              GetComponent<Rigidbody>().AddForce(transform.up * forcaPulo*1.5f, ForceMode.Impulse);
+           
+            puloDuplo = false;
         }
     }
 
